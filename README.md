@@ -40,7 +40,7 @@ Cart     |  Cart   | Checkout Summary
 
 Checkout Details    |  Checkout Details  | Checkout Payment     
 :-------------------------:|:-------------------------:|:-------------------------:|
-![](https://github.com/SoumikBhatt/SPN/blob/main/screenshots/checkout_details.JPEG)|![](https://github.com/SoumikBhatt/SPN/blob/main/screenshots/cart%202.JPEG)|![](https://github.com/SoumikBhatt/SPN/blob/main/screenshots/checkout_payment.JPEG)
+![](https://github.com/SoumikBhatt/SPN/blob/main/screenshots/checkout_details.JPEG)|![](https://github.com/SoumikBhatt/SPN/blob/main/screenshots/checkout_details_2.JPEG)|![](https://github.com/SoumikBhatt/SPN/blob/main/screenshots/checkout_payment.JPEG)
 
 <br>
 <br/>
