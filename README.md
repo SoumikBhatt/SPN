@@ -1,6 +1,32 @@
 # SPN
 SPN is a food ordering app for restaurants based in London. It is a portable application that can be used in multiple restaurants.
 
+## Features
+
+- Authentication
+  - Login
+  - Registration
+  - Forget Password
+
+- Food list by category
+
+- Cart
+  - Add to Cart
+  - Delivery option
+  - Collection option
+  
+- Checkout
+  - Order Details
+  - User Details
+  
+- Payment
+  - Cash On Delivery
+  - Pay by Card
+  - Save card for later payment
+
+- Order History
+- Profile Update
+
 
 ## Tools & Technology Used
 
